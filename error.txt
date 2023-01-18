@@ -1,0 +1,2 @@
+ls: cannot access '/notreal': No such file or directory
+ls: cannot access '/lis': No such file or directory
